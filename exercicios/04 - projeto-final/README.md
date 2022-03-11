@@ -3,8 +3,8 @@
 #### Autores
 - [Gleyson Sampaio](https://github.com/glysns)
 
-## Easy Job
-Desafio final para apresenteção da School Java MJV
+## Água Luz Atração Notificação Webservice
+Desafio final para apresenteção da School Java
 
 ## Requisitos
 Criar um modelo de classes que represente um Registro Profissional no sistema contendo os campos: Id, Cpf, Data Nascimento, Nome, Sexo, Escolaridade, Profissão, Salário (Mínimo/Máximo) Pretendido,Telefone para contato e Estrangeiro (sim/não);
