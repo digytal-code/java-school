@@ -73,7 +73,7 @@ Segue regras para posicionamento dos campos para o layout
 | VALOR | 17 |08 | 127,35 | 00012735 | 179 | 186
 | TIPO NOTIFICACAO ** | 18 |01 | SMS ou WHATS | S ou W | 186 | 187
 
-#### Case 3
+#### Case 3 - Banco de dados
 
 Nossa fabrica de software agora precisará armazenar os dados de atração em um banco de dados relacional PostgreSQL ou MySQL com base no layout `agua-luz-contratos.txt`. Logo precisaremos criar uma tabela `tab_contrato` determinando o DDL compatível com os registros na atração.
 
@@ -100,6 +100,10 @@ Segue modelo de DDL definição da tabela `tab_contrato`:
 | Lógico        | BIT (0/1), BOOLEAN, CHAR(1)| AMBOS |
 | Estrutural    | BLOB, JSON| JSON |
 | Binário (image) | BLOB | BLOB |
+
+#### Case 4 - ORM - Persistência - JPA
+
+Precisaremos agora incorporar um framework ORM em nosso projeto, foi sugerido o uso do JPA e Hibernate para mapeamento e persistência da tabela de Contrato. Mas primeiro será necessário descrever um diagrama de classes usando a convensão UML.
 
 
 
