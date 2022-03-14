@@ -105,7 +105,7 @@ Segue modelo de DDL definição da tabela `tab_contrato`:
 
 Precisaremos agora incorporar um framework ORM em nosso projeto, foi sugerido o uso do JPA e Hibernate para mapeamento e persistência da tabela de Contrato. Mas primeiro será necessário descrever um diagrama de classes usando a convensão UML.
 
-![https://github.com/digytal-code/java-school/blob/main/exercicios/03%20-%20agua-luz-atracao-notificacao/simple-model.png]
+![Modelo Simples](https://github.com/digytal-code/java-school/blob/main/exercicios/03%20-%20agua-luz-atracao-notificacao/simple-model.png)
 
 
 
