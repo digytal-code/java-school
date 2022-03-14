@@ -103,7 +103,7 @@ Segue modelo de DDL definição da tabela `tab_contrato`:
 
 #### Case 4 - ORM - Persistência - JPA
 
-Precisaremos agora incorporar um framework ORM em nosso projeto, foi sugerido o uso do JPA e Hibernate para mapeamento e persistência da tabela de Contrato.
+Precisaremos agora incorporar um framework ORM em nosso projeto, foi sugerido o uso do JPA e Hibernate para mapeamento e persistência da tabela de Contrato. Mas primeiro será necessário descrever um diagrama de classes usando a convensão UML.
 
 
 
