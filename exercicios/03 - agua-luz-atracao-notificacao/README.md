@@ -105,6 +105,19 @@ Segue modelo de DDL definição da tabela `tab_contrato`:
 
 Precisaremos agora incorporar um framework ORM em nosso projeto, foi sugerido o uso do JPA e Hibernate para mapeamento e persistência da tabela de Contrato. Mas primeiro será necessário descrever um diagrama de classes usando a convensão UML.
 
+![Modelo Simples](https://github.com/digytal-code/java-school/blob/main/exercicios/03%20-%20agua-luz-atracao-notificacao/simple-model.png)
+
+#### Case 5 - ORM - Avançado
+
+Nosso projeto foi um sucesso tanto que nosso cliente solicitou que realizassemos algumas alterações e melhorias:
+1. Deveremos ter uma entidade cadastro para poder comportar mais de um contrato, logo todo contrato deverá ter uma relação com o cadastro.
+2. Primeiro precisaremos realizar um cadastro
+3. Após o cadastro realizado, poderemos gerar contratos para este cadastro após localizado no sistema
+4. O Cadastro deverá ter agora um endereço de contato e outro de instalação.
+5. O Cadastro deverá ter uma lista de telefones contendo uma nova entidade Telefone com os campos DDD, Numero e Tipo [FIXO, CELULAR, WHATSAPP]
+
+![Modelo Completo](https://github.com/digytal-code/java-school/blob/main/exercicios/03%20-%20agua-luz-atracao-notificacao/model.png)
+
 
 
 
