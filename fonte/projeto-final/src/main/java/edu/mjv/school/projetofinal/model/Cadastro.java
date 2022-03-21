@@ -28,7 +28,14 @@ public class Cadastro {
 	//?
 	private Endereco endereco;
 	
+	private Integer profissao;
 	
+	public Integer getProfissao() {
+		return profissao;
+	}
+	public void setProfissao(Integer profissao) {
+		this.profissao = profissao;
+	}
 	public Integer getId() {
 		return id;
 	}
