@@ -116,7 +116,7 @@ Nosso projeto foi um sucesso tanto que nosso cliente solicitou que realizassemos
 4. O Cadastro deverá ter agora um endereço de contato e outro de instalação.
 5. O Cadastro deverá ter uma lista de telefones contendo uma nova entidade Telefone com os campos DDD, Numero e Tipo [FIXO, CELULAR, WHATSAPP]
 
-![Modelo Completo](https://github.com/digytal-code/java-school/blob/main/exercicios/03%20-%20agua-luz-atracao-notificacao/model.png)
+![Modelo Completo](https://github.com/digytal-code/java-school/blob/main/exercicios/03%20-%20agua-luz-atracao-notificacao/model-final.png)
 
 
 
