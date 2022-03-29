@@ -17,8 +17,8 @@ Plano de aula, apresentações, exercícios aplicados na School de Java.
 | -------- | ---------| --------
 | 1°  | Fundamentos  | História e recursos da linguagem, primeiros passos, controle de fluxo, programação orientada a objetos, operações, trabalhando com arquivos, git e github. 
 | 2°  | Domínio | Maven, testes, Java IO, modelagem de dados e coleções
-| 3°  | Frameworks   | Banco de dados, JDBC, JPA e Hibernate. Spring Framework, Spring Boot e Spring Data JPA.
-| 4°  | Rest API     | HTTP, REST, Spring Web, Swagger, Spring Security e Heroku** 
+| 3°  | Persistência   | Banco de dados, JDBC, JPA e Hibernate, Spring Framework, Spring Boot e Spring Data JPA. 
+| 4°  | Frameworks Web     | HTTP, REST, Spring Web, Swagger, Spring Security e Heroku** 
 | 5°  | Desafio final     | Apresentação dos projetos e liberação da prova.
 
 ##### Primeira semana
