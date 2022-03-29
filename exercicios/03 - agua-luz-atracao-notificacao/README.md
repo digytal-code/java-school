@@ -112,9 +112,10 @@ Precisaremos agora incorporar um framework ORM em nosso projeto, foi sugerido o 
 Nosso projeto foi um sucesso tanto que nosso cliente solicitou que realizassemos algumas alterações e melhorias:
 1. Deveremos ter uma entidade cadastro para poder comportar mais de um contrato, logo todo contrato deverá ter uma relação com o cadastro.
 2. Primeiro precisaremos realizar um cadastro
-3. Após o cadastro realizado, poderemos gerar contratos para este cadastro após localizado no sistema
-4. O Cadastro deverá ter agora um endereço de contato e outro de instalação.
-5. O Cadastro deverá ter uma lista de telefones contendo uma nova entidade Telefone com os campos DDD, Numero e Tipo [FIXO, CELULAR, WHATSAPP]
+3. Os serviços não são mais Enuns mas sim uma nova classe que deverá ser registrada no banco de dados
+4. Após o cadastro realizado, poderemos gerar contratos para este cadastro após localizado no sistema
+5. O Cadastro deverá ter agora um endereço e cada contrato de cadastro também um endereço de instalação.
+6. O Cadastro deverá ter uma lista de telefones contendo uma nova entidade Telefone com os campos Id, Numero e Tipo [FIXO, CELULAR, WHATSAPP]
 
 ![Modelo Completo](https://github.com/digytal-code/java-school/blob/main/exercicios/03%20-%20agua-luz-atracao-notificacao/model-final.png)
 
