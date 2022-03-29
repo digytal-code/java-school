@@ -65,6 +65,7 @@ Plano de aula, apresentações, exercícios aplicados na School de Java.
 * [Live sobre Java e o mercado](https://www.youtube.com/watch?v=98wpk6CV330)
 
 
-https://dev.to/rodrigovp/do-jdbc-ao-spring-data-ou-e-possivel-reduzir-codigo-361f
+###### Persistência
+* [JDBC a Spring Data JPA](https://dev.to/rodrigovp/do-jdbc-ao-spring-data-ou-e-possivel-reduzir-codigo-361f)
 
 
