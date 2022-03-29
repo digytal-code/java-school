@@ -17,8 +17,8 @@ Plano de aula, apresentações, exercícios aplicados na School de Java.
 | -------- | ---------| --------
 | 1°  | Fundamentos  | História e recursos da linguagem, primeiros passos, controle de fluxo, programação orientada a objetos, operações, trabalhando com arquivos, git e github. 
 | 2°  | Domínio | Maven, testes, Java IO, modelagem de dados e coleções
-| 3°  | Frameworks   | Banco de dados, JDBC, JPA e Hibernate. Spring Framework, Spring Boot e Spring Data JPA.
-| 4°  | Rest API     | HTTP, REST, Spring Web, Swagger, Spring Security e Heroku** 
+| 3°  | Persistência   | Banco de dados, JDBC, JPA e Hibernate, Spring Framework, Spring Boot e Spring Data JPA. 
+| 4°  | Frameworks Web     | HTTP, REST, Spring Web, Swagger, Spring Security e Heroku** 
 | 5°  | Desafio final     | Apresentação dos projetos e liberação da prova.
 
 ##### Primeira semana
@@ -63,5 +63,9 @@ Plano de aula, apresentações, exercícios aplicados na School de Java.
 * [Java Básico](https://glysns.gitbook.io/java-basico/)
 * [Spring e Spring Boot](https://glysns.gitbook.io/springframework/)
 * [Live sobre Java e o mercado](https://www.youtube.com/watch?v=98wpk6CV330)
+
+
+###### Persistência
+* [JDBC a Spring Data JPA](https://dev.to/rodrigovp/do-jdbc-ao-spring-data-ou-e-possivel-reduzir-codigo-361f)
 
 
