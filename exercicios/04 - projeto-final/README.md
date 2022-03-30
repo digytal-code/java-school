@@ -47,11 +47,12 @@ Disponibilizar o link do github do projeto bem descrito quanto às funcionalidad
 
 ### Critérios de Aceite - Expectativa da Entrega: 
 
-1.	Apresentar a estrutura do projeto no github;
+1.	Apresentar a estrutura do projeto no github ou na IDE;
 
 2.	Apresentar a API da plataforma devidamente documentada e preferencialmente no Heroku;
 
 3.	Realizar uma demonstração de uma jornada de consumo dos recursos para conforme requisitados;
 
-4.	Requisitos Técnicos: Implementação aplicando as boas práticas de programação, uso de ORM-JPA, Framework de persistência, segurança na API, integridade do banco de dados. 
+4.	Requisitos Técnicos: Implementação aplicando as boas práticas de programação, uso de:
+	**ORM-JPA, Framework de persistência, segurança na API, integridade do banco de dados.** 
  
