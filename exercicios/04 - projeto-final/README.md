@@ -14,8 +14,9 @@ Mesmo todo o projeto sendo desenvolvido em grupo, cada integrante deverá realiz
 
 #### Projeto Java: 
 Apresentar as funcionalidades com base nos padrões de desenvolvimento permitindo a realização de operações de acesso a dados.
-Os dados devem ser armazenados em um banco de dados utilizando o JPA.
-NÃO USAR SPRING DATA JPA
+Os dados deverão ser armazenados em um banco de dados utilizando o JPA.
+
+**NÃO USAR SPRING DATA JPA NESTA PRIMEIRA ETAPA**
 
 ###### Orientações: 
 	
@@ -25,30 +26,25 @@ Aplicar as boas práticas de desenvolvimento, organização do projeto, testes u
 
 Código fonte no github com o arquivo README detalhando as funcionalidades, classe principal (main) e membros envolvidos e sua participação no projeto.
 
-### Projeto Spring: 
-
-#### Obrigatoriedade: 
-
-Refatorar todo o sistema para a estrutura Spring com a finalidade de prover API Rest em uma aplicação Spring Web
+#### Projeto Spring: 
 
 ###### Orientações: 
-
+Refatorar todo o sistema para a estrutura Spring com a finalidade de prover API Rest em uma aplicação Spring Web
 Criar uma camada de controller para disponibilizar todos os serviços para prover recursos para a equipe de front.
 
 ###### Forma de entrega: 
 
 Disponibilizar uma API Rest documentada pelo Swagger em um ambiente Azure, Heroku ou OnPromisse.
 
-### Projeto Final:
-Obrigatoriedades:
+#### Projeto Final:
+
+###### Obrigatoriedades:
 Apresentar a API sua aplicação devidamente documentada para uma demonstração de uma jornada de consumo dos recursos pertinentes a proposta do teu projeto.
 
-Orientações: 
-	Detalhar no README do projeto modelo de consumo de endpoint para facilitar a utilização da API, exemplo:
+###### Orientações: 
+Detalhar no README do projeto modelo de consumo de endpoint para facilitar a utilização da API, exemplo:
 
-
-
-Forma de entrega: 
+###### Forma de entrega: 
 
 Disponibilizar o link do github do projeto bem descrito quanto às funcionalidades, implementações relevantes, participação dos membros da equipe, READEME com a jornada na plataforma e a API Rest documentada pelo Swagger em um ambiente Azure, Heroku ou OnPromisse.
 
