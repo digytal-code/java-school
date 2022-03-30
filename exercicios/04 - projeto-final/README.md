@@ -4,10 +4,10 @@
 - [Gleyson Sampaio](https://github.com/glysns)
 
 ## Projeto final
-Projeto para ser apresentado no final da School Java
 
 Cada grupo deverá criar um modelo de classes que represente uma aplicação real com tema livre, esta aplicação deverá ter interação com banco de dados utilizando um framework de persistência com JPA / Hibernate e ter suas funcionalidades disponibilizadas através de uma API Rest devidamente documentada. 
 
+Mesmo todo o projeto sendo desenvolvido em grupo, cada integrante deverá realizar sua apresentação e claro tendo a liberdade de explorar mais o tema selecionado para nos apresentar outras funcionalidades de negócio.
 
 
 ### Obrigatoriedades: 
