@@ -6,8 +6,9 @@
 ## Projeto final
 Projeto para ser apresentado no final da School Java
 
-### Requisitos
-Criar um modelo de classes que represente uma aplicação real tema livre. 
+Cada grupo deverá criar um modelo de classes que represente uma aplicação real com tema livre, esta aplicação deverá ter interação com banco de dados utilizando um framework de persistência com JPA / Hibernate e ter suas funcionalidades disponibilizadas através de uma API Rest devidamente documentada. 
+
+
 
 ### Obrigatoriedades: 
 
