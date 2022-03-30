@@ -12,7 +12,7 @@ Mesmo todo o projeto sendo desenvolvido em grupo, cada integrante deverá realiz
 
 ### Obrigatoriedades: 
 
-#### Projeto Java: 
+## Projeto Java: 
 Apresentar as funcionalidades com base nos padrões de desenvolvimento permitindo a realização de operações de acesso a dados.
 Os dados deverão ser armazenados em um banco de dados utilizando o JPA.
 
@@ -26,7 +26,7 @@ Aplicar as boas práticas de desenvolvimento, organização do projeto, testes u
 
 Código fonte no github com o arquivo README detalhando as funcionalidades, classe principal (main) e membros envolvidos e sua participação no projeto.
 
-#### Projeto Spring: 
+## Projeto Spring: 
 
 ###### Orientações: 
 Refatorar todo o sistema para a estrutura Spring com a finalidade de prover API Rest em uma aplicação Spring Web
@@ -36,7 +36,7 @@ Criar uma camada de controller para disponibilizar todos os serviços para prove
 
 Disponibilizar uma API Rest documentada pelo Swagger em um ambiente Azure, Heroku ou OnPromisse.
 
-#### Projeto Final:
+## Projeto Final:
 
 ###### Obrigatoriedades:
 Apresentar a API sua aplicação devidamente documentada para uma demonstração de uma jornada de consumo dos recursos pertinentes a proposta do teu projeto.
