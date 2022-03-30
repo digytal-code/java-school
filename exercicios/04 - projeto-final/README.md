@@ -9,9 +9,6 @@ Cada grupo deverá criar um modelo de classes que represente uma aplicação rea
 
 Mesmo todo o projeto sendo desenvolvido em grupo, cada integrante deverá realizar sua apresentação e claro tendo a liberdade de explorar mais o tema selecionado para nos apresentar outras funcionalidades de negócio.
 
-
-### Obrigatoriedades: 
-
 ## Projeto Java: 
 Apresentar as funcionalidades com base nos padrões de desenvolvimento permitindo a realização de operações de acesso a dados.
 Os dados deverão ser armazenados em um banco de dados utilizando o JPA.
