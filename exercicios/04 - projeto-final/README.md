@@ -39,7 +39,7 @@ Disponibilizar uma API Rest documentada pelo Swagger em um ambiente Azure, Herok
 Apresentar a API sua aplicação devidamente documentada para uma demonstração de uma jornada de consumo dos recursos pertinentes a proposta do teu projeto.
 
 ###### Orientações: 
-Detalhar no README do projeto modelo de consumo de endpoint para facilitar a utilização da API, exemplo:
+Detalhar no README do projeto modelo de consumo de endpoint para facilitar a utilização da API:
 
 ###### Forma de entrega: 
 
