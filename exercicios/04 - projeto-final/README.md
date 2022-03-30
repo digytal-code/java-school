@@ -54,5 +54,5 @@ Disponibilizar o link do github do projeto bem descrito quanto às funcionalidad
 3.	Realizar uma demonstração de uma jornada de consumo dos recursos para conforme requisitados;
 
 4.	Requisitos Técnicos: Implementação aplicando as boas práticas de programação, uso de:
-	**ORM-JPA, Framework de persistência, segurança na API, integridade do banco de dados.** 
+	**ORM-JPA, Framework de persistência,  integridade do banco de dados e segurança na API*.** 
  
