@@ -3,18 +3,17 @@
 #### Autores
 - [Gleyson Sampaio](https://github.com/glysns)
 
-## Água Luz Atração Notificação Webservice
-Desafio final para apresenteção da School Java
+## Projeto final
+Projeto para ser apresentado no final da School Java
 
 ## Requisitos
-Criar um modelo de classes que represente um Registro Profissional no sistema contendo os campos: Id, Cpf, Data Nascimento, Nome, Sexo, Escolaridade, Profissão, Salário (Mínimo/Máximo) Pretendido,Telefone para contato e Estrangeiro (sim/não);
-
+Criar um modelo de classes que represente uma aplicação real tema livre. 
 
 ## Obrigatoriedades: 
 
 ### Projeto Java: 
-Disponibilizar as funcionalidades de preenchimento de uma Ficha Cadastral realizando operações de acesso a dados.
-Os dados devem ser armazenados em arquivo e em seguida um banco de dados utilizando o JPA.
+Apresentar as funcionalidades com base nos padrões de desenvolvimento permitindo a realização de operações de acesso a dados.
+Os dados devem ser armazenados em um banco de dados utilizando o JPA.
 NÃO USAR SPRING DATA JPA
 
 Orientações: 
