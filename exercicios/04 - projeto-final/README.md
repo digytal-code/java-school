@@ -24,7 +24,7 @@ Forma de entrega:  Código fonte no github com o arquivo README detalhando as fu
 ### Projeto Spring: 
 **Obrigatoriedades:**
 
-Refatorar todo o sistema para a estrutura Spring com a finalidade de prover API Rest em uma aplicação Spring Web + JWT
+Refatorar todo o sistema para a estrutura Spring com a finalidade de prover API Rest em uma aplicação Spring Web
 
 **Orientações:**
 
@@ -36,7 +36,7 @@ Disponibilizar uma API Rest documentada pelo Swagger em um ambiente Azure, Herok
 
 ### Projeto Final:
 Obrigatoriedades:
-Apresentar a API para a plataforma Easy Job devidamente documentada para uma demonstração de uma jornada de consumo dos recursos para criar usuário, realizar login com token, gerar operações CRUD via API de cadastro de candidatos, além de uma consulta com dados relevantes.
+Apresentar a API sua aplicação devidamente documentada para uma demonstração de uma jornada de consumo dos recursos pertinentes a proposta do teu projeto.
 
 Orientações: 
 	Detalhar no README do projeto modelo de consumo de endpoint para facilitar a utilização da API, exemplo:
