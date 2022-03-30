@@ -16,21 +16,25 @@ Apresentar as funcionalidades com base nos padrões de desenvolvimento permitind
 Os dados devem ser armazenados em um banco de dados utilizando o JPA.
 NÃO USAR SPRING DATA JPA
 
-##### Orientações: 
-	Aplicar as boas práticas de desenvolvimento, organização do projeto, testes unitários e código fonte no github
+###### Orientações: 
 	
-Forma de entrega:  Código fonte no github com o arquivo README detalhando as funcionalidades, classe principal (main) e membros envolvidos e sua participação no projeto.
+Aplicar as boas práticas de desenvolvimento, organização do projeto, testes unitários e código fonte no github
+	
+###### Forma de entrega: 
+
+Código fonte no github com o arquivo README detalhando as funcionalidades, classe principal (main) e membros envolvidos e sua participação no projeto.
 
 ### Projeto Spring: 
-**Obrigatoriedades:**
+
+#### Obrigatoriedade: 
 
 Refatorar todo o sistema para a estrutura Spring com a finalidade de prover API Rest em uma aplicação Spring Web
 
-**Orientações:**
+###### Orientações: 
 
 Criar uma camada de controller para disponibilizar todos os serviços para prover recursos para a equipe de front.
 
-**Forma de entrega:**
+###### Forma de entrega: 
 
 Disponibilizar uma API Rest documentada pelo Swagger em um ambiente Azure, Heroku ou OnPromisse.
 
