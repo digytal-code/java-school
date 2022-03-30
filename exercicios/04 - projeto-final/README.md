@@ -6,17 +6,17 @@
 ## Projeto final
 Projeto para ser apresentado no final da School Java
 
-## Requisitos
+### Requisitos
 Criar um modelo de classes que represente uma aplicação real tema livre. 
 
-## Obrigatoriedades: 
+### Obrigatoriedades: 
 
-### Projeto Java: 
+#### Projeto Java: 
 Apresentar as funcionalidades com base nos padrões de desenvolvimento permitindo a realização de operações de acesso a dados.
 Os dados devem ser armazenados em um banco de dados utilizando o JPA.
 NÃO USAR SPRING DATA JPA
 
-Orientações: 
+##### Orientações: 
 	Aplicar as boas práticas de desenvolvimento, organização do projeto, testes unitários e código fonte no github
 	
 Forma de entrega:  Código fonte no github com o arquivo README detalhando as funcionalidades, classe principal (main) e membros envolvidos e sua participação no projeto.
@@ -41,9 +41,7 @@ Apresentar a API sua aplicação devidamente documentada para uma demonstração
 Orientações: 
 	Detalhar no README do projeto modelo de consumo de endpoint para facilitar a utilização da API, exemplo:
 
-Login:
-Request: POST: http://seudominio/login {“login”:”aluno”, “senha”:”1234”}
-Response:{“token”:”O_TOKEN_DAAPLICACAO”, “dataExpiracao”:”2021-12-31”}
+
 
 Forma de entrega: 
 
