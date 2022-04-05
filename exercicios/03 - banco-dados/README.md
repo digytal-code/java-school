@@ -33,7 +33,7 @@ O nosso desafio é criar uma jornada de instruções SQL contemplando comandos D
 1. Retornar uma lista com a seguinte informação concatenada e apelidada de nome_profissao: NOME + ' - ' + PROFISSAO;
 1. Retornar uma lista contendo o nome da profissão e a quantidade de registros da profissão.
 1. Retornar o registro com a menor renda mensal;
-1. Retornar se existir o registro com a seguinte condição: Nome parecido com 'MARCOS PAULO' e Renda Mensal `maior que` 1200 e Renda Mensal `menor ou igual que` 2000 e que o Estado esteja `entre` SP, RJ, SC.
+1. Retornar se existir o registro com a seguinte condição: Nome parecido com 'MARCOS PAULO' e Renda Mensal `maior que` 1200 e Renda Mensal `menor ou igual que` 2000 e que o Estado esteja `dentro de` SP, RJ, SC.
 
 ##### Instruções
 
