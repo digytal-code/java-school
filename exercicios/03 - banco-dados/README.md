@@ -3,7 +3,7 @@
 #### Autores
 - [Gleyson Sampaio](https://github.com/glysns)
 
-## SQL Single Table
+## SQL Simple Tables
 O nosso desafio é criar uma jornada de instruções SQL contemplando comandos DDL + DML + DQL
 
 #### Requisitos
