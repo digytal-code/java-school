@@ -7,7 +7,7 @@
 O nosso desafio é criar uma jornada de instruções SQL contemplando comandos DDL + DML + DQL
 
 #### Requisitos
-1. Criação da tabela `tab_cadastro`  contendo os campos: Id (pk-auto increment), Nome, Email, Telefone, Endereco (Logradouro, Numero, Bairro, Cidade, Estado), Profissão, Salario  Minimo Pretendido, Salario Maximo Pretendido, Estrangeiro;
+1. Criação da tabela `tab_cadastro`  contendo os campos: Id (pk-auto increment), Nome, Email, Telefone, Endereco (Logradouro, Numero, Bairro, Cidade, Estado), Profissão, Valor de Renda Mensal, Número de dependentes, Estrangeiro;
 1. Descrever como o banco de dados escolhido trata os tipos de dados em questão;
 1. Apresentar todo o conteúdo em um arquivo .sql destacando as observações como comentário no script. (ver padrão de comentários no banco de dados selecionado).
 
