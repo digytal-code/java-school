@@ -28,8 +28,8 @@ O nosso desafio é criar uma jornada de instruções SQL contemplando comandos D
 
 ##### DQL
 
-1. Retornar uma lista contendo os campos: Nome, Email, Profissao e Faixa Salarial ordenado por Profissão, Nome;
-1. Retornar uma lista contendo os campos: Nome, Email, Profissao e Faixa Salarial ordenado por Profissão, Salario Máximo do maior para o menor;
+1. Retornar uma lista de cadastros contendo os campos: Nome, Email, Profissao (nome) e Renda Mensal ordenado por Profissão (nome) e Nome do cadastro;
+1. Retornar uma lista contendo os campos: Nome, Email, Profissao e Renda Mensal ordenado por Profissão e Renda Mensal do maior para o menor;
 1. Retornar uma lista com a seguinte informação concatenada e apelidada de nome_profissao: NOME + ' - ' + PROFISSAO;
 1. Retornar uma lista contendo o nome da profissão e a quantidade de registros da profissão.
 1. Retornar o registro com menor salário mínimo;
