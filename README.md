@@ -58,9 +58,9 @@ Plano de aula, apresentações, exercícios aplicados na School de Java.
 | Qui  | Swagger, Segurança com JWT e Deploy no Heroku.
 
 ##### Material de apoio
-* [Conteúdo e referências do curso](https://github.com/glysns/mjv-java-school/tree/main/documentacao)
 * [Git e Github](https://glysns.gitbook.io/git-e-github/)
 * [Java Básico](https://glysns.gitbook.io/java-basico/)
+* [Java Classes](https://glysns.gitbook.io/java/recursos/principais-classes)
 * [Spring e Spring Boot](https://glysns.gitbook.io/springframework/)
 * [Live sobre Java e o mercado](https://www.youtube.com/watch?v=98wpk6CV330)
 
