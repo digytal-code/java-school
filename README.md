@@ -63,6 +63,7 @@ Plano de aula, apresentações, exercícios aplicados na School de Java.
 * [Java Classes](https://glysns.gitbook.io/java/recursos/principais-classes)
 * [Spring e Spring Boot](https://glysns.gitbook.io/springframework/)
 * [Live sobre Java e o mercado](https://www.youtube.com/watch?v=98wpk6CV330)
+* [Dicionário do Programador](https://www.youtube.com/watch?v=sZAxLRMxEUo)
 
 
 ###### Persistência
