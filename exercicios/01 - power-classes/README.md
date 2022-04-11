@@ -31,7 +31,7 @@ O nosso desafio é explorar as principais classes da linguagem Java.
 - java.time.LocalDateTime
 
 ##### Grupo 04
-- java.util.Formatter
+- java.lang.String.format()
 - java.time.format.DateTimeFormatter
 - java.text.DecimalFormat
 
