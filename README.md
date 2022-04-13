@@ -59,6 +59,7 @@ Plano de aula, apresentações, exercícios aplicados na School de Java.
 
 ##### Material de apoio
 * [Git e Github](https://glysns.gitbook.io/git-e-github/)
+* [Git Atlasina](https://www.atlassian.com/br/git/tutorials/what-is-version-control)
 * [Java Básico](https://glysns.gitbook.io/java-basico/)
 * [Java Classes](https://glysns.gitbook.io/java/recursos/principais-classes)
 * [Spring e Spring Boot](https://glysns.gitbook.io/springframework/)
