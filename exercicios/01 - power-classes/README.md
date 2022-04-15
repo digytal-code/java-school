@@ -40,6 +40,9 @@ O nosso desafio é explorar as principais classes da linguagem Java.
 - java.nio.file.Path
 - java.nio.file.Paths
 
+###### 05 - Links
+[Dev Dojo](https://www.youtube.com/watch?v=RX3kPWkuZMQ)
+
 ##### Grupo 06
 - java.lang.Object
 - java.lang.Math
