@@ -83,5 +83,10 @@ Cada linha de movimentação deverá ter a estrutura conforme ilustração segui
 
 O conteúdo deverá ser disponibilizado via arquivo chamado de **AAAA-MM-DD_movimentacao.txt** no diretório c:\estudos\banco_central\movimentacoes
 
+###### Etapas de desenvolvimento:
+
+* Criar o projeto gerador_arquivo para converter as movimentações em texto e gerar o arquivo;
+* Criar o projeto leitor_arquivo para ler o arquivo e converter em objetos.
+
 
 
