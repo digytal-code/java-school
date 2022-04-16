@@ -63,11 +63,16 @@ O nosso desafio é explorar as principais classes da linguagem Java.
 ##### Prática com Professor
 ###### Projeto OpenBank
 O Banco Central requisitou aos bancos e finaceiras que diariamente fosse enviado um arquivo contendo as movimentações de clientes contendo as seguintes informações:
-Data da Movimentação, Cpf e Nome Cliente, Valor e Tipo da Movimentação e se a Movimentação foi estornada.
+Data da Movimentação, Cpf / Cnpj e Nome Cliente, Valor e Tipo da Movimentação e se a Movimentação foi estornada.
 
 Estas movimentações deverão ser disponibilizadas em arquivo contendo o layout posicional abaixo:
 
 | Ordem | Campo | Tamanho | Valor Real | Valor Formatado |
-| ----- | ----- | ------- | ---------- | --------------- | 
+| ----- | ----- | ------- | ---------- | --------------- |
+| 01    | Data  | 08      | 16/04/2022 | 20220416        |
+| 02    | CPF\CNPJ   | 14      | 135.217.791-18 | 00013521779118 |
+| 03    | Nome   | 30      | RAIMUNDO NONATO LOUREIRO CASTELO BRANCO | RAIMUNDO NONATO LOUREIRO CAST |
+
+
 
 
