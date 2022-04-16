@@ -85,8 +85,15 @@ O conteúdo deverá ser disponibilizado via arquivo chamado de **AAAA-MM-DD_movi
 
 ###### Etapas de desenvolvimento:
 
-* Criar o projeto gerador_arquivo para converter as movimentações em texto e gerar o arquivo;
-* Criar o projeto leitor_arquivo para ler o arquivo e converter em objetos.
+1. Criar o projeto Maven gerador_arquivo para converter as movimentações em texto e gerar o arquivo;
+1. Criar o projeto Maven leitor_arquivo para ler o arquivo e converter em objetos.
+
+* Depois das funcionalidades estarem funcionando, deverá ter uma nova funcionalidade para converter as movimentações no padrão layout delimitado, exemplo:
+20220416;00013521779118;RAIMUNDO NONATO LOUREIRO CAST;0000127548;R;0
+* Depois gerar o arquivo chamado de **AAAA-MM-DD_movimentacao.csv** no diretório c:\estudos\banco_central\movimentacoes
+* Realizar a leitura do arquivo **csv** para também converter em movimentações
+
+
 
 
 
