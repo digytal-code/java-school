@@ -79,7 +79,7 @@ Estas movimentações deverão ser disponibilizadas em arquivo contendo o layout
 
 * Cada linha de movimentação deverá ter a estrutura conforme ilustração seguir:
 
-``20220416**00013521779118**RAIMUNDO NONATO LOUREIRO CAST**0000127548**R**0**``
+``2022041600013521779118RAIMUNDO NONATO LOUREIRO CAST0000127548R0``
 
 * O conteúdo deverá ser disponibilizado via arquivo chamado de **AAAA-MM-DD_movimentacao.txt** no diretório c:\estudos\banco_central\movimentacoes
 
@@ -89,7 +89,9 @@ Estas movimentações deverão ser disponibilizadas em arquivo contendo o layout
 1. Criar o projeto Maven leitor_arquivo para ler o arquivo e converter em objetos.
 
 * Depois das funcionalidades estarem funcionando, deverá ter uma nova funcionalidade para converter as movimentações no padrão layout delimitado, exemplo:
+
 ``20220416;00013521779118;RAIMUNDO NONATO LOUREIRO CAST;0000127548;R;0``
+
 * Depois gerar o arquivo chamado de **AAAA-MM-DD_movimentacao.csv** no diretório c:\estudos\banco_central\movimentacoes
 * Realizar a leitura do arquivo **csv** para também converter em movimentações
 
