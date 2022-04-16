@@ -62,7 +62,7 @@ O nosso desafio é explorar as principais classes da linguagem Java.
 
 ##### Prática com Professor
 ###### Projeto OpenBank
-O Banco Central requisitou aos bancos e finaceiras que diariamente fosse enviado um arquivo contendo as movimentações de clientes contendo as seguintes informações:
+O Banco Central requisitou aos bancos e financeiras que diariamente fosse enviado um arquivo contendo as movimentações de clientes contendo as seguintes informações:
 Data da Movimentação, Cpf / Cnpj e Nome Cliente, Valor e Tipo da Movimentação e se a Movimentação foi estornada.
 
 Estas movimentações deverão ser disponibilizadas em arquivo contendo o layout posicional abaixo:
@@ -80,6 +80,8 @@ Estas movimentações deverão ser disponibilizadas em arquivo contendo o layout
 Cada linha de movimentação deverá ter a estrutura conforme ilustração seguir:
 
 20220416**00013521779118**RAIMUNDO NONATO LOUREIRO CAST**0000127548**R**0**
+
+O conteúdo deverá ser disponibilizado via arquivo chamado de **AAAA-MM-DD_movimentacao.txt** no diretório c:\estudos\banco_central\movimentacoes
 
 
 
