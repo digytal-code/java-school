@@ -72,6 +72,11 @@ Estas movimentações deverão ser disponibilizadas em arquivo contendo o layout
 | 01    | Data  | 08      | 16/04/2022 | 20220416        |
 | 02    | CPF\CNPJ   | 14      | 135.217.791-18 | 00013521779118 |
 | 03    | Nome   | 30      | RAIMUNDO NONATO LOUREIRO CASTELO BRANCO | RAIMUNDO NONATO LOUREIRO CAST |
+| 04    | Valor   | 10      | 1.275,48 | 0000127548  |
+| 05    | Tipo Mov.   | 1      | RECEITA / DESPESA | R ou D  |
+| 06    | Estornado   | 1      | true / false | 1 ou 0  |
+
+
 
 
 
