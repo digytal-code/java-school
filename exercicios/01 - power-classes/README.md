@@ -77,7 +77,8 @@ Estas movimentações deverão ser disponibilizadas em arquivo contendo o layout
 | 06    | Estornado   | 1      | true / false | 1 ou 0  |
 
 
-
+Cada linha de movimentação deverá ter a estrutura conforme ilustração seguir:
+20220416**00013521779118**RAIMUNDO NONATO LOUREIRO CAST**0000127548**R**0**
 
 
 
