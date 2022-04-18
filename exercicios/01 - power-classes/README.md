@@ -32,8 +32,8 @@ O nosso desafio é explorar as principais classes da linguagem Java.
 
 ##### Grupo 04
 - java.lang.String.format() - formatar Strings
-- java.time.format.DateTimeFormatter
-- java.text.DecimalFormat
+- java.time.format.DateFormatter e java.time.format.DateTimeFormatter
+- java.text.DecimalFormat e java.text.NumberFormat
 
 ##### Grupo 05
 - java.io.File
