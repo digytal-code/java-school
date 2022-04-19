@@ -98,8 +98,8 @@ Estas movimentações deverão ser disponibilizadas em arquivo contendo o layout
 
 ###### Referências
 
-* [Classes](!https://glysns.gitbook.io/java-basico/programacao-orientada-a-objetos/classes)
-* [Construtores](!https://glysns.gitbook.io/java-basico/programacao-orientada-a-objetos/construtores)
+* [Classes](https://glysns.gitbook.io/java-basico/programacao-orientada-a-objetos/classes)
+* [Construtores](https://glysns.gitbook.io/java-basico/programacao-orientada-a-objetos/construtores)
 
 
 
