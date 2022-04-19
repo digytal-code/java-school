@@ -37,6 +37,7 @@ O nosso desafio é explorar as principais classes da linguagem Java.
 
 ##### Grupo 05
 - java.io.File
+- java.nio.file.Files
 - java.nio.file.Path
 - java.nio.file.Paths
 
