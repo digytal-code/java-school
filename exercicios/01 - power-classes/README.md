@@ -96,6 +96,12 @@ Estas movimentações deverão ser disponibilizadas em arquivo contendo o layout
 * Depois gerar o arquivo chamado de **AAAA-MM-DD_movimentacao.csv** no diretório c:\estudos\banco_central\movimentacoes
 * Realizar a leitura do arquivo **csv** para também converter em movimentações
 
+###### Referências
+
+[Classes](!https://glysns.gitbook.io/java-basico/programacao-orientada-a-objetos/classes)
+[Construtores](!https://glysns.gitbook.io/java-basico/programacao-orientada-a-objetos/construtores)
+
+
 
 
 
