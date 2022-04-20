@@ -80,7 +80,7 @@ Estas movimentações deverão ser disponibilizadas em arquivo contendo o layout
 
 * Cada linha de movimentação deverá ter a estrutura conforme ilustração seguir:
 
-``2022041600013521779118RAIMUNDO NONATO LOUREIRO CAST0000127548R0``
+``2022041600013521779118RAIMUNDO NONATO LOUREIRO CASTE0000127548R0``
 
 * O conteúdo deverá ser disponibilizado via arquivo chamado de **AAAA-MM-DD_movimentacao.txt** no diretório c:\estudos\banco_central\movimentacoes
 
