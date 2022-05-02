@@ -14,6 +14,8 @@ Informamos que conforme contrato com protocolo de número **2022025687** está a
 - Cidade: **São Paulo / SP**
 - Cep: **27.310-657**
 
+###### os campos em negrito representam os atributos das classes envolvidas
+
 #### Case 2
 
 Nossa fabrica de software foi designada a criar um aplicativo para atrair e notificar confirmação de `Contrato` de instalação de água e luz em `Cadastro`s realizados em sua cidade.
@@ -41,7 +43,7 @@ Informamos que conforme contrato com protocolo de número **2022025687** está a
   - agua-luz-contratos.csv obedecendo o layout padrão delimitador (;) 
   - agua-luz-contratos.txt obedecendo o layout padrão posicional
 4. O projeto agua-luz-notificacao deverá realizar a leitura dos contratos pelo arquivo `agua-luz-contratos.txt` para poder criar e enviar a mensagem via Sms ou Whatsapp
-5. O projeto agua-luz-notificacao deverá realizar a geração de arquivo `contrato-xxx.txt` contendo a mensagem gerada. (Este requisito é um PLUS)
+5. O projeto agua-luz-notificacao deverá realizar a geração de arquivo `contrato-cpf-xxx.txt` contendo a mensagem gerada. (Este requisito é um PLUS)
 
 ###### Layout posicional
 
