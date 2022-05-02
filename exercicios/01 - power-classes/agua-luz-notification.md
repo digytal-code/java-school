@@ -62,7 +62,7 @@ Segue regras para posicionamento dos campos para o layout
 | CIDADE | 09 |30 | São Raimundo Nonato| SÃO RAIMUNDO NONATO           | 113 | 143 
 | UF | 10 |02 | Sp| SP| 143 | 145
 | CEP | 11 |08 | 07.210.715 | O7210715 | 145 | 153
-| PAIS ** | 12 |02 | Brasil | BR (criar enum com 03 Paises conforme link) [ISO-2](https://www.sport-histoire.fr/pt/Geografia/Codigos_ISO_Paises.php) |  153 | 155
+| PAIS ** | 12 |02 | Brasil | BR (criar enum com Paises [BRASIL, ESTADOS UNIDOS, FRANÇA] conforme link) [ISO-2](https://www.sport-histoire.fr/pt/Geografia/Codigos_ISO_Paises.php) |  153 | 155
 | PROTOCOLO | 13 |10 | 1984365 | 0001984365 | 155 | 165
 | DATA | 14 |08 | 07/05/2022 | 20220507 | 165 | 173
 | HORA | 15 |04 | 15:21 | 1521 | 173 | 177
